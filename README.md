@@ -2,7 +2,7 @@
 
 Design a parking lot using object-oriented principles.
 
-Assumptions:
+## Assumptions:
 - The parking lot has multiple levels, each level has multiple rows of spots
 - The parking lot can park motorcycles, cars, and buses
 - The parking lot chas motorcycle spots, compact spots, and large spots
